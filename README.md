@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseslabs
 - 👀 I’m interested in computer engineering
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Programming in Bash, Java, web development and many others technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : franckavodagba1er@gmail.com
 
